@@ -14,3 +14,5 @@ J’ai pu retenir que pour manipuler l’outil Git il faut:
 6- Ensuite faire un git add pour agouti notre fichier a l’index, 
 
 7- Puis faire un git commit -m “[message]” pour enregistrer les modifications aver un message.
+
+Pour plus d’informations rendez-vous sure le site www.openclassroom.com
