@@ -1,4 +1,4 @@
-Ce fichier represente le deuxieme fichier de cet Activite sur l’utilisation de Git et de GitHub. 
+Bonjour,ce fichier represente le deuxieme fichier de cet Activite sur l’utilisation de Git et de GitHub. 
 
 1- J’ai pu retenir que pour lire l’historique d’un Git il faut tout implement faire un “git log”.
  
