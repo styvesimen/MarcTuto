@@ -1,0 +1,13 @@
+Ce fichier represente le deuxieme fichier de cet Activite sur l’utilisation de Git et de GitHub. 
+
+1- J’ai pu retenir que pour lire l’historique d’un Git il faut tout implement faire un “git log”.
+ 
+2- Si apres avoir centraliser sur quel commit on veut se positionner on peut tout simplement copier le SHA et faire un “git checkout [SHA]” pour revenir au positionnement du commit sur lequel on veut se positionner.
+
+3- Si on veut malgre tout, se mettre au niveau du denier commit on peut tout simplement faire un “git checkout master”
+
+4- Pour recuperer son code dans son repertoire git il suffit de faire un “git clone [url https de laddresse du github]”
+
+5- Pour envoyer son code sur Github il faut juste faire “git push origin master”
+
+6- Pour recapture le code de Github il faut juste faire “git pull origin master”

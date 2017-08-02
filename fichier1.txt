@@ -1,0 +1,16 @@
+Ce fichier represente le premier fichier de cet Activite sur l’utilisation de Git et de GitHub. 
+J’ai pu retenir que pour manipuler l’outil Git il faut:
+
+1- Ouvrir un dossier, 
+
+2- Penetrer le dossier, 
+
+3- Paire un git init pour qu’il soit vu comme un dossier git, 
+
+4- Faire un git status  pour verifier que chest un repertoire git, 
+
+5- Creer un fishier a linterieur a l’aide de la commander “touch [fichier]” 
+
+6- Ensuite faire un git add pour agouti notre fichier a l’index, 
+
+7- Puis faire un git commit -m “[message]” pour enregistrer les modifications aver un message.
