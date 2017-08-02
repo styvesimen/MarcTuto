@@ -11,3 +11,5 @@ Ce fichier represente le deuxieme fichier de cet Activite sur l’utilisation de
 5- Pour envoyer son code sur Github il faut juste faire “git push origin master”
 
 6- Pour recapture le code de Github il faut juste faire “git pull origin master”
+ 
+Cecil best juste un beef resume du cours, on peut acceder aux details complets dans le your de Marc sur www.openclassroom.com
